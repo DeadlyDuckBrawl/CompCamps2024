@@ -3,9 +3,12 @@ background-color: coral;
 background-image: radial-gradient
 }
 main {
-width: 800px;
+width: 1500px;
 margin-left:auto ;
 margin-right:auto;
+font-family: "Lilita One", sans-serif;
+  font-weight: bold;
+  font-style: normal;
 }
 
 header {
@@ -19,7 +22,7 @@ nav {
     display:flex;
     align-items: center;
     width: 100%
-    justify-content: center;
+    text-align: center; 
 
 
     a {
